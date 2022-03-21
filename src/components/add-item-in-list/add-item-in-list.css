@@ -1,0 +1,8 @@
+.AddItemInList{
+    margin-top: 10px;
+    text-align: end;
+}
+.AddItemInList button{
+    margin-left: 10px;
+    width: 100px;
+}

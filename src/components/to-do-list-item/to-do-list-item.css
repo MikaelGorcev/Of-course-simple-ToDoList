@@ -1,0 +1,16 @@
+.to-do-list-item{
+    padding: 1;
+    display: flex;
+    justify-content: space-between;
+}
+.done{
+    text-decoration: line-through;
+}
+.important{
+    font-weight: bold;
+    color: blue;
+}
+.ToDoListItem-filterTask{
+   
+    background-color: blueviolet;
+}

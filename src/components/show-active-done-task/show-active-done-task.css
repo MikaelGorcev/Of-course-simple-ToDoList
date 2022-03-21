@@ -1,0 +1,8 @@
+.show-active-done-task{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+}
+.show-active-done-task div:first-child{
+    margin-right: 10px;
+}

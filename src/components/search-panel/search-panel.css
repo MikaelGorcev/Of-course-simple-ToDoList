@@ -1,0 +1,13 @@
+.search-Panel{
+    display: flex;
+}
+.search-Panel input{
+    color: #0d6efd;
+    font-size: 20px;
+    height: 38px;
+    width:100%;
+    flex: 1;
+}
+.search-Panel input:focus-visible{
+    outline-color: #0c1b33;
+}
